@@ -1,5 +1,7 @@
 # Modern Java-8-9 Recipes with examples #
 
+# This is a Netbeans based MAVEN project. #
+
 ##Chapter 1 -- Lambda Expressions 
 - [lambda Constructor References](https://github.com/panbhatt/Modern-Java-8-9-Recipes/blob/master/src/com/learn/panbhatt/modernjavarecipes/chap1/ConstructorReferences.java)
 - [Functional Interfaces](https://github.com/panbhatt/Modern-Java-8-9-Recipes/blob/master/src/com/learn/panbhatt/modernjavarecipes/chap1/FunctionalInterfaces.java)
