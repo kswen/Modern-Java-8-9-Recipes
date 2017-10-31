@@ -40,7 +40,7 @@ public class OptionalUsage {
         // use Map with Optionals. to transform thet value if present. 
         System.out.println(optAtIngr.map((i) -> { return i.get() ;} ));
         
-        // use Map method of Optional. 
+        // use Map method of Optional to . 
         System.out.println("");
         List<Optional<Integer>> listInt = Arrays.asList(Optional.of(100),Optional.ofNullable(null),Optional.of(200),Optional.ofNullable(null)) ;
 
