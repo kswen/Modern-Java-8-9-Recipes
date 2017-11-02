@@ -45,3 +45,7 @@
 - [Date/Time Utilities ](https://github.com/panbhatt/Modern-Java-8-9-Recipes/blob/master/src/com/learn/panbhatt/modernjavarecipes/chap8/datetime/DateUtilities.java)
 - [Parsing & Formatting Dates n Times](https://github.com/panbhatt/Modern-Java-8-9-Recipes/blob/master/src/com/learn/panbhatt/modernjavarecipes/chap8/datetime/DateParseAndFormat.java)
 
+
+##Chapter 9 -- Parallelism with Streams
+- [Working on Parallel Streams ](https://github.com/panbhatt/Modern-Java-8-9-Recipes/blob/master/src/com/learn/panbhatt/modernjavarecipes/chap9/ConcurrencyParallelism/ParallelStream.java)
+
